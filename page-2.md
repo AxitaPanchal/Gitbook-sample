@@ -27,3 +27,11 @@ all okay
 > "hellooooo"
 
 ![](.gitbook/assets/images2.jpg)
+
+**Hello, new texttttt**&#x20;
+
+_Hello, new texttttt_
+
+~~Hello, new texttttt~~
+
+**`Hello, new texttttt`**
